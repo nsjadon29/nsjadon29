@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nikhil Singh Jadon</h1>
-<h3 align="center">A Passionate Problem Solver & Front-End Developer from India</h3>
+<h3 align="center">A Passionate Problem Solver & Full-Stack Developer from India</h3>
 
-- 🔭 I’m currently working on **Front-End Development**
+- 🔭 I’m currently working on **Full-Stack Development**
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **DevOps**
 
-- 💬 Ask me about **C++, Java, HTML, CSS, JS, DSA**
+- 💬 Ask me about **C++, Java, HTML, CSS, JS, DSA, ReactJs, MongoDB, ExpreeJs**
 
 - 📫 How to reach me **nsjadon29@gmail.com**
 
